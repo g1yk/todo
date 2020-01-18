@@ -17,8 +17,6 @@ lib-cov
 # Coverage directory used by tools like istanbul
 coverage
 
-# nyc test coverage
-.nyc_output
 
 # Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
@@ -27,7 +25,7 @@ coverage
 bower_components
 
 # node-waf configuration
-.lock-wscript
+.lock-wscript 
 
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Release
